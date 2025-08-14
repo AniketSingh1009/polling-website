@@ -23,7 +23,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saran-mani/intervue-poll-backend.git
+   git https://github.com/AniketSingh1009/polling-website
    cd intervue-poll-backend
    ```
 
